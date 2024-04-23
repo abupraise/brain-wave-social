@@ -1,0 +1,11 @@
+<svg width="134" height="28" viewBox="0 0 134 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_569_29016)">
+    <circle cx="14.5996" cy="14" r="12.32" stroke="white" stroke-width="3.36"/>
+    <mask id="mask0_569_29016" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="29" height="28">
+      <circle cx="14.5996" cy="14" r="14" fill="black"/>
+    </mask>
+    <g mask="url(#mask0_569_29016)">
+      <circle cx="9.86386" cy="8.23495" r="10.4671" stroke="white" stroke-width="3.36"/>
+    </g>
+  </g>
+</svg>
